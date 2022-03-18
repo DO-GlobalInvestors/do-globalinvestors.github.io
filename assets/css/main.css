@@ -37,6 +37,17 @@ section, summary, time, mark, audio, video {
 	padding: 10px; 
 }
 
+.img4 {
+	position: absolute;
+	bottom: 10px; 
+	left: 0;
+	width: 90%;
+	height: 25%;
+	padding: 10px;
+	opacity: 0.9;
+	filter: grayscale(30%);
+}
+
 .div2 {
 	display: grid; 
 	grid-template-columns: 1fr 1fr 1fr;}
